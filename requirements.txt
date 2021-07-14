@@ -36,4 +36,5 @@ requests==2.21.0
 
 oauthlib
 pyOpenSSL
+keras
 
