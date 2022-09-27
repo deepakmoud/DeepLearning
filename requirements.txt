@@ -30,7 +30,7 @@ urllib3==1.26.4
 Werkzeug==2.0.1
 yarg==0.1.9
 mlxtend==0.18.0
-nltk
+
 flask-login==0.5.0
 
 
